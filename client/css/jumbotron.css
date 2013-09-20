@@ -1,0 +1,40 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.navbar {
+	background-color: white;
+	height: 92px;
+}
+
+.navbar .container {
+	height: 92px;
+}
+
+.navbar #menu {
+	padding-top: 50px;
+}
+
+.navbar-brand {
+	font-size: 3em;
+}
+
+.nav > li > a {
+	padding: 10px 15px;
+}
+
+.nav > li {
+	padding-right: 5px;
+}
+
+.nav > li {
+	padding: 0 8px 0 0;
+}
+
+.nav > li.active a {
+	color: rgb(82, 199, 129);
+	border-bottom: solid rgb(82, 199, 129) 2px;
+
+}

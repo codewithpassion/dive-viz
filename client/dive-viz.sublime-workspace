@@ -1,0 +1,235 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n    <link rel=\"shortcut icon\" href=\"bootstrap/assets/ico/favicon.png\">\n\n    <title>Jumbotron Template for Bootstrap</title>\n\n    <!-- Bootstrap core CSS -->\n    <link href=\"bootstrap/css/bootstrap.css\" rel=\"stylesheet\">\n\n    <!-- Custom styles for this template -->\n    <link href=\"css/jumbotron.css\" rel=\"stylesheet\">\n\n    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!--[if lt IE 9]>\n      <script src=\"bootstrap/assets/js/html5shiv.js\"></script>\n      <script src=\"bootstrap/assets/js/respond.min.js\"></script>\n    <![endif]-->\n  </head>\n\n  <body>\n\n    <div class=\"navbar navbar-inverse navbar-fixed-top\">\n      <div class=\"container\">\n        <div class=\"navbar-header\">\n          <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-collapse\">\n            <span class=\"icon-bar\"></span>\n            <span class=\"icon-bar\"></span>\n            <span class=\"icon-bar\"></span>\n          </button>\n          <a class=\"navbar-brand\" href=\"#\">Project name</a>\n        </div>\n        <div class=\"navbar-collapse collapse\">\n          <ul class=\"nav navbar-nav\">\n            <li class=\"active\"><a href=\"#\">Home</a></li>\n            <li><a href=\"#about\">About</a></li>\n            <li><a href=\"#contact\">Contact</a></li>\n            <li class=\"dropdown\">\n              <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\">Dropdown <b class=\"caret\"></b></a>\n              <ul class=\"dropdown-menu\">\n                <li><a href=\"#\">Action</a></li>\n                <li><a href=\"#\">Another action</a></li>\n                <li><a href=\"#\">Something else here</a></li>\n                <li class=\"divider\"></li>\n                <li class=\"dropdown-header\">Nav header</li>\n                <li><a href=\"#\">Separated link</a></li>\n                <li><a href=\"#\">One more separated link</a></li>\n              </ul>\n            </li>\n          </ul>\n          <form class=\"navbar-form navbar-right\">\n            <div class=\"form-group\">\n              <input type=\"text\" placeholder=\"Email\" class=\"form-control\">\n            </div>\n            <div class=\"form-group\">\n              <input type=\"password\" placeholder=\"Password\" class=\"form-control\">\n            </div>\n            <button type=\"submit\" class=\"btn btn-success\">Sign in</button>\n          </form>\n        </div><!--/.navbar-collapse -->\n      </div>\n    </div>\n\n    <!-- Main jumbotron for a primary marketing message or call to action -->\n    <div class=\"jumbotron\">\n      <div class=\"container\">\n        <h1>Hello, world!</h1>\n        <p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p>\n        <p><a class=\"btn btn-primary btn-lg\">Learn more &raquo;</a></p>\n      </div>\n    </div>\n\n    <div class=\"container\">\n      <!-- Example row of columns -->\n      <div class=\"row\">\n        <div class=\"col-lg-4\">\n          <h2>Heading</h2>\n          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>\n          <p><a class=\"btn btn-default\" href=\"#\">View details &raquo;</a></p>\n        </div>\n        <div class=\"col-lg-4\">\n          <h2>Heading</h2>\n          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>\n          <p><a class=\"btn btn-default\" href=\"#\">View details &raquo;</a></p>\n       </div>\n        <div class=\"col-lg-4\">\n          <h2>Heading</h2>\n          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>\n          <p><a class=\"btn btn-default\" href=\"#\">View details &raquo;</a></p>\n        </div>\n      </div>\n\n      <hr>\n\n      <footer>\n        <p>&copy; Company 2013</p>\n      </footer>\n    </div> <!-- /container -->\n\n\n    <!-- Bootstrap core JavaScript\n    ================================================== -->\n    <!-- Placed at the end of the document so the pages load faster -->\n    <script src=\"../../assets/js/jquery.js\"></script>\n    <script src=\"../../dist/js/bootstrap.min.js\"></script>\n  </body>\n</html>\n",
+			"file": "index.html",
+			"file_size": 4822,
+			"file_write_time": 130241516648885500,
+			"settings":
+			{
+				"buffer_size": 4837,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/roboto/Documents/GitHub/dive-viz/client/bootstrap-3.0.0/examples/jumbotron/index.html",
+		"/C/Users/roboto/Documents/GitHub/openrov-software/src/app.js",
+		"/D/Tools/adt-bundle-windows-x86_64-20130219/adt-bundle-windows-x86_64-20130219/sdk/tools/adb_has_moved.txt",
+		"/C/Users/roboto/Documents/gossip.txt",
+		"/D/Tools/dhcpsrv2.4/dhcptrc.txt",
+		"/D/Tools/dhcpsrv2.4/readme.txt",
+		"/C/Users/roboto/Dropbox/AU/AUTODO.txt",
+		"/E/Save/Diving/SDI_TDI/pwd.txt",
+		"/E/Save/Diving/Accounts.txt",
+		"/C/Users/roboto/Downloads/Torrents/Headhunters [Hodejegerne] [2011] 720p ReRip BRRip H264 AC3 - CODY/Info_by_Cody.txt",
+		"/E/Windows Vista Home Premium SP2 (32 Bit)/Instructions.txt",
+		"/D/Development/OpenROV/devcall.txt",
+		"/D/Development/OpenROV/september.txt",
+		"/C/Users/roboto/Dropbox/AU/Diving Applications",
+		"/C/Users/roboto/Dropbox/AU/DiveShopsDiana.txt",
+		"/C/Users/roboto/Google Drive/OpenROV/Presentation/mmfADL/mmfADL.txt",
+		"/C/Users/roboto/Google Drive/OpenROV/nicknames.txt",
+		"/F/Instructor Resource/Read Me File (CD-ROM).txt",
+		"/C/Users/roboto/Documents/GitHub/openrov-software/src/lib/config.js",
+		"/E/Save/roboto/Documents/Documents/Kalender.txt",
+		"/C/Users/roboto/Desktop/[ www.Torrenting.com ] - Paul.2011.DVDRip.XviD-ALLiANCE/Subs/alli-paul-xvid.idx",
+		"/E/Save/roboto/Documents/Documents/guetsli.txt",
+		"/C/Users/roboto/Documents/GitHub/openrov-software/src/lib/StatusReader.js",
+		"/C/Users/roboto/Documents/GitHub/openrov-software/src/lib/OpenROVCamera.js",
+		"/C/Users/roboto/Documents/GitHub/openrov-software/src/lib/OpenROVController.js",
+		"/I/Videos/Jiu/2004 Charlie Lenz/title01.mkv",
+		"/I/Videos/Jiu/2004 Charlie Lenz/title00.mkv",
+		"/C/Users/roboto/Dropbox/Time log.txt",
+		"/C/Users/roboto/Documents/GitHub/openrov-software/arduino/Arduino-Todo.txt",
+		"/C/Users/roboto/Documents/GitHub/csharp-template-solution/Coding.Solution/packages.config",
+		"/C/Users/roboto/Documents/GitHub/csharp-template-solution/packages/repositories.config",
+		"/C/Users/roboto/Documents/GitHub/csharp-template-solution/Coding.Solution.Test/Coding.Solution.Test.csproj",
+		"/C/Users/roboto/Documents/GitHub/csharp-template-solution/Coding.Solution.Test/packages/repositories.config",
+		"/C/Users/roboto/Documents/GitHub/csharp-template-solution/Coding.Solution/packages/repositories.config",
+		"/F/sale/MsSoftware/win8.txt",
+		"/C/Users/roboto/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/roboto/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/roboto/Documents/GitHub/openrov-software/arduino/OpenROV/Command.cpp",
+		"/C/Users/roboto/Documents/GitHub/openrov-software/arduino/OpenROV/Timer.cpp",
+		"/C/Users/roboto/Documents/GitHub/openrov-software/arduino/OpenROV/Motors.h",
+		"/C/Users/roboto/Documents/GitHub/openrov-software/arduino/OpenROV/Motors.cpp",
+		"/C/Users/roboto/Documents/GitHub/openrov-contrib/graphics/logos/Readme.md"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"XXX"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								741,
+								741
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "/C/Users/roboto/Documents/GitHub/dive-viz/client/dive-viz.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
